@@ -70,7 +70,7 @@ Directory Structure
 
 ## Run the project
 
-* Clone this repository
+* Clone this repository under the `src` folder of your `catkin_ws`.
 * Open the repository and make  
 ```
 cd /home/workspace/catkin_ws/
@@ -92,3 +92,6 @@ cd /home/workspace/catkin_ws/
 source devel/setup.bash
 rosrun rqt_image_view rqt_image_view  
 ```  
+## License
+
+This repository is licensed under the terms of the MIT license.

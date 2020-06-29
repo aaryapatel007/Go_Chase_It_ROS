@@ -61,10 +61,7 @@ Directory Structure
 │   │   │   │   ├── myworld.world
 │   │   │   ├── CMakeLists.txt                 # compiler instructions
 │   │   │   ├── package.xml                    # package info
-├── my_ball                                    # Model files 
-│   ├── model.config
-│   ├── model.sdf
-├── pic                                     
+├── video                                     
 │   ├── chase_ball.gif                          # video
 ```
 
